@@ -43,6 +43,6 @@ h3{
 }
 
 .resultado{
-    background-color: red;
-    border-radius: 90%;
+    margin-top: 10px;
+    margin-left: 300px;
 }
